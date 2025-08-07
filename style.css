@@ -1,0 +1,56 @@
+.hoho {
+    color: rgb(242, 97, 252);
+    background-color: rgb(132, 210, 224);
+}
+.hoho:hover{ 
+   
+border: 2px dotted yellow;
+transition: 20s;}
+#info {color: cadetblue;}
+#table{
+    color: rgb(5, 9, 136);
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 505;
+}
+#table th {
+    border: 1px solid rgb(0, 162, 255);
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#table tr {
+     border: 1px solid rgb(8, 120, 175);
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+}
+    #table td{
+     border: 1px solid rgb(0, 251, 255);
+    padding: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+
+
+.tftable {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:12px;color:#6538cf;width:600px;
+    border-width: 3px;border-color: #fd9fe9;border-collapse: collapse;}
+.tftable th {
+    font-size:10px;background-color:#aca1ff;
+    border-width: 3px;padding: 8px;border-style: solid;
+    border-color: #fd9fe9;text-align:left;}
+.tftable tr {
+    background-color:#a8f2fc;}
+.tftable td {
+    font-size:10px;border-width: 1px;
+    padding: 8px;border-style: solid;
+    border-color: #7eeeff;}
+.tftable tr:hover {
+    background-color:hsl(0, 0%, 100%);}
+    h2{
+        color: #aca1ff;
+        font-family: 'Courier New', Courier, monospace;
+    }
